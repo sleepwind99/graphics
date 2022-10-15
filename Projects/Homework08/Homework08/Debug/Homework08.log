@@ -1,0 +1,7 @@
+﻿  Homework08.cpp
+D:\2022-1\컴퓨터 그래픽스\Projects\Homework08\Homework08\Homework08.cpp(64,50): warning C4244: '=': 'double'에서 'T'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              T=float
+          ]
+  Homework08.vcxproj -> D:\2022-1\컴퓨터 그래픽스\Projects\Homework08\Debug\Homework08.exe
